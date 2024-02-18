@@ -1,5 +1,22 @@
 # Telegam bot that queries OpenAI API and returns .ics file
 
+## Why is this useful?
+- it simplifies the process of creating calendar events
+- it allows you to dictate all parameters of the event in natural language
+- no need to manually fill the details
+- outcoming .ics file can be imported to any calendar app right after receiving it
+
+## Apple's Current Solution
+![alt text](/preview/ios-form.JPEG "Event creation in iOS 17")
+
+## How it works
+![alt text](/preview/request.jpg "Request")
+
+## Result
+![alt text](/preview/result.jpg "Result")
+
+
+
 Pre-requisites:
 - Ubuntu 22.04.1 LTS 
 - Python 3
