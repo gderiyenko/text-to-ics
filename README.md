@@ -6,16 +6,15 @@
 - no need to manually fill the details
 - outcoming .ics file can be imported to any calendar app right after receiving it
 
-## Apple's Current Solution
-![alt text](/preview/ios-form.JPEG "Event creation in iOS 17")
-
-## How it works
-![alt text](/preview/request.jpg "Request")
-
 ## Result
-![alt text](/preview/result.jpg "Result")
+
+<img src="/preview/request.jpg" alt="Request" width="30%">
+
+<img src="/preview/result.jpg" alt="Result" width="30%">
 
 
+
+# Installation
 
 Pre-requisites:
 - Ubuntu 22.04.1 LTS 
